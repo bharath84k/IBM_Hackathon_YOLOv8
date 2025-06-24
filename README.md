@@ -40,6 +40,19 @@ IBM_Hackathon/
 ├── Outputs/                    # Contains screenshots, outputs (ignored in .gitignore)
 └── requirements.txt            # Python package dependencies
 
+---
+
+## 📷 Screenshots
+
+These images show YOLOv8 running in the browser with real-time object detection:
+
+<img src="IBM_Hackathon/screenshot1.jpg" width="600"/>
+<br><br>
+<img src="IBM_Hackathon/screenshot2.jpg" width="600"/>
+<br><br>
+<img src="IBM_Hackathon/screenshot3.jpg" width="600"/>
+
+
 
 
 
