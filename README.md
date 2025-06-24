@@ -42,6 +42,8 @@ IBM_Hackathon/
 
 ---
 
+---
+
 ## 📷 Screenshots
 
 These images show YOLOv8 running in the browser with real-time object detection:
@@ -51,6 +53,7 @@ These images show YOLOv8 running in the browser with real-time object detection:
 <img src="IBM_Hackathon/screenshot2.jpg" width="600"/>
 <br><br>
 <img src="IBM_Hackathon/screenshot3.jpg" width="600"/>
+
 
 
 
